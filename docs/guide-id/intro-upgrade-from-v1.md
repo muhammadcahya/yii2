@@ -15,7 +15,7 @@ beberapa fitur yang sebelumnya Anda harus kembangkan sendiri sekarang menjadi ba
 Instalasi
 ------------
 
-Yii 2.0 sepenuhnya merangkul [composer](https://getcomposer.org/), yang adalah paket manager PHP. Instalasi
+Yii 2.0 sepenuhnya menggunakan [composer](https://getcomposer.org/), yang adalah paket manager PHP. Instalasi
 dari kerangka inti serta ekstensi, ditangani melalui Composer. Silakan merujuk ke
 bagian [Instalasi Yii](start-installation.md) untuk belajar cara menginstal Yii 2.0. Jika Anda menghendaki
 membuat ekstensi baru, atau mengubah ekstensi 1.1 yang sudah ke ekstensi 2.0 yang kompatibel, silakan
